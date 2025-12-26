@@ -2,8 +2,8 @@
 
 A simple command-line calculator built using Python.
 
-> ⚠️ Work in Progress  
-> This project is currently under development. More features and fixes will be added.
+> ⚠️ Under Constant Updation  
+> More features, fixes, and possible changes will be added.
 
 ## Features
 - Addition
